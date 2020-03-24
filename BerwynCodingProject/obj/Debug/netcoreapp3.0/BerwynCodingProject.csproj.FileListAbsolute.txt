@@ -1,0 +1,22 @@
+C:\Users\CReds\Documents\Important Projects\Berwyn_Coding_Challenge\BerwynCodingProject\BerwynCodingProject\bin\Debug\netcoreapp3.0\BerwynCodingProject.exe
+C:\Users\CReds\Documents\Important Projects\Berwyn_Coding_Challenge\BerwynCodingProject\BerwynCodingProject\bin\Debug\netcoreapp3.0\BerwynCodingProject.deps.json
+C:\Users\CReds\Documents\Important Projects\Berwyn_Coding_Challenge\BerwynCodingProject\BerwynCodingProject\bin\Debug\netcoreapp3.0\BerwynCodingProject.runtimeconfig.json
+C:\Users\CReds\Documents\Important Projects\Berwyn_Coding_Challenge\BerwynCodingProject\BerwynCodingProject\bin\Debug\netcoreapp3.0\BerwynCodingProject.runtimeconfig.dev.json
+C:\Users\CReds\Documents\Important Projects\Berwyn_Coding_Challenge\BerwynCodingProject\BerwynCodingProject\bin\Debug\netcoreapp3.0\BerwynCodingProject.dll
+C:\Users\CReds\Documents\Important Projects\Berwyn_Coding_Challenge\BerwynCodingProject\BerwynCodingProject\bin\Debug\netcoreapp3.0\BerwynCodingProject.pdb
+C:\Users\CReds\Documents\Important Projects\Berwyn_Coding_Challenge\BerwynCodingProject\BerwynCodingProject\obj\Debug\netcoreapp3.0\BerwynCodingProject.csprojAssemblyReference.cache
+C:\Users\CReds\Documents\Important Projects\Berwyn_Coding_Challenge\BerwynCodingProject\BerwynCodingProject\obj\Debug\netcoreapp3.0\BerwynCodingProject.AssemblyInfoInputs.cache
+C:\Users\CReds\Documents\Important Projects\Berwyn_Coding_Challenge\BerwynCodingProject\BerwynCodingProject\obj\Debug\netcoreapp3.0\BerwynCodingProject.AssemblyInfo.cs
+C:\Users\CReds\Documents\Important Projects\Berwyn_Coding_Challenge\BerwynCodingProject\BerwynCodingProject\obj\Debug\netcoreapp3.0\BerwynCodingProject.dll
+C:\Users\CReds\Documents\Important Projects\Berwyn_Coding_Challenge\BerwynCodingProject\BerwynCodingProject\obj\Debug\netcoreapp3.0\BerwynCodingProject.pdb
+C:\Users\CReds\Documents\Important_Projects\Berwyn_Coding_Challenge\BerwynCodingProject\BerwynCodingProject\bin\Debug\netcoreapp3.0\BerwynCodingProject.exe
+C:\Users\CReds\Documents\Important_Projects\Berwyn_Coding_Challenge\BerwynCodingProject\BerwynCodingProject\bin\Debug\netcoreapp3.0\BerwynCodingProject.deps.json
+C:\Users\CReds\Documents\Important_Projects\Berwyn_Coding_Challenge\BerwynCodingProject\BerwynCodingProject\bin\Debug\netcoreapp3.0\BerwynCodingProject.runtimeconfig.json
+C:\Users\CReds\Documents\Important_Projects\Berwyn_Coding_Challenge\BerwynCodingProject\BerwynCodingProject\bin\Debug\netcoreapp3.0\BerwynCodingProject.runtimeconfig.dev.json
+C:\Users\CReds\Documents\Important_Projects\Berwyn_Coding_Challenge\BerwynCodingProject\BerwynCodingProject\bin\Debug\netcoreapp3.0\BerwynCodingProject.dll
+C:\Users\CReds\Documents\Important_Projects\Berwyn_Coding_Challenge\BerwynCodingProject\BerwynCodingProject\bin\Debug\netcoreapp3.0\BerwynCodingProject.pdb
+C:\Users\CReds\Documents\Important_Projects\Berwyn_Coding_Challenge\BerwynCodingProject\BerwynCodingProject\obj\Debug\netcoreapp3.0\BerwynCodingProject.csprojAssemblyReference.cache
+C:\Users\CReds\Documents\Important_Projects\Berwyn_Coding_Challenge\BerwynCodingProject\BerwynCodingProject\obj\Debug\netcoreapp3.0\BerwynCodingProject.AssemblyInfoInputs.cache
+C:\Users\CReds\Documents\Important_Projects\Berwyn_Coding_Challenge\BerwynCodingProject\BerwynCodingProject\obj\Debug\netcoreapp3.0\BerwynCodingProject.AssemblyInfo.cs
+C:\Users\CReds\Documents\Important_Projects\Berwyn_Coding_Challenge\BerwynCodingProject\BerwynCodingProject\obj\Debug\netcoreapp3.0\BerwynCodingProject.dll
+C:\Users\CReds\Documents\Important_Projects\Berwyn_Coding_Challenge\BerwynCodingProject\BerwynCodingProject\obj\Debug\netcoreapp3.0\BerwynCodingProject.pdb
